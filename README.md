@@ -1,16 +1,11 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+Link to the project hosted on Github Pages:  https://osazeyyh.github.io/pixelartmaker
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+This project was undertaken as the final project and part of the #7daysofcode to mark the successful completion of my Udacity Scholarship courtesy of Andela Learning community.
 
-## Instructions
+It has been a great journey so far and it can only get better from here. 
 
-To get started, open `designs.js` and start building out the app's functionality.
+This project was a bit challenging as I had to use Javascript and JQuery which I had never used before (though honestly I found understanding these 2 to be quite interesting).
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+i hope to improve on this in the nearest future as I hone my newly developed skills and look forward to the next phase of the Nanodegree program!
