@@ -1,6 +1,6 @@
 # Pixel Art Maker Project
 
-Link to the project hosted on Github Pages:  https://osazeyyh.github.io/pixelartmaker
+You can check out the project on Github Pages via this link:  https://osazeyyh.github.io/pixelartmaker
 
 This project was undertaken as the final project and part of the #7daysofcode to mark the successful completion of my Udacity Scholarship courtesy of Andela Learning community.
 
