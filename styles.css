@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(88, 231, 231);
+    /* background-color:  #8983a5de; */
+    text-align: center;
+    padding: 1em;
+}
+
+h1 {
+    /* font-family: Monoton; */
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(241, 4, 95);
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 70px;
+    font-style:bold;
+    margin: 0.2em;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff ;
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+#sizePicker{
+    margin-top: 20px ;
+}
